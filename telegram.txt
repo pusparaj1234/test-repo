@@ -1,0 +1,1 @@
+-many -workdir "C:\Telegram6"
